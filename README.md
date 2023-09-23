@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhishekmaheshwari.contact@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+
 
 <hr>
 <p align="center">
@@ -37,7 +37,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about .
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ....
+
 -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
